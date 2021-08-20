@@ -6,3 +6,4 @@ Pierwsza wersja bota, wprowadzająca 3 podstawowe komendy
  * Nowa komenda: `.pomoc` - spis komend i ich opis
  * Nowa komenda: `.changelog` - zmiany w ostatniej wersji
  * Nowa komenda **[BETA]**: `.orlen` - Wyświetla ceny naszych paliw 🍻
+ * Nowa funkcja: Dodano odpowiedź na ping
