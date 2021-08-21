@@ -9,3 +9,4 @@ Pierwsza wersja bota, wprowadzająca 3 podstawowe komendy
  * Nowa komenda: `.reload` (komenda deweloperska)
  * Nowa komenda: `.shutdown` (komenda deweloperska)
  * Nowa funkcja: Dodano odpowiedź na ping
+ * Nowa funkcja: Animowany status aktywności
