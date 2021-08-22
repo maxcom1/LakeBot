@@ -12,3 +12,4 @@ Pierwsza wersja bota, wprowadzająca 3 podstawowe komendy
  * Nowa komenda: `.shutdown` (komenda deweloperska)
  * Nowa funkcja: Dodano odpowiedź na ping
  * Nowa funkcja: Animowany status aktywności
+ * Bot jest teraz online 24/7!
