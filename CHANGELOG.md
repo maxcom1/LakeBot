@@ -1,4 +1,4 @@
-# 🌚 Beta 0.2
+# 🌚 Beta 0.2 (08.09)
 🎯 **Krótki opis:**
 Kilka komend i poprawa działania bota
 
@@ -9,9 +9,20 @@ Kilka komend i poprawa działania bota
  * Nowa komenda: `.baza` - Baza ~~produktów~~ zawartości
  * Nowa komenda: `.eval`
  * Przebudowano `.pomoc`
- * Inne mniejsze zmiany i funkcje
+ * Inne mniejsze zmiany i funkcje  
 
-# 🌚 Beta 0.1
+**⚙️Beta 0.2.1 (10.09):**  
+
+ * Nowa komenda: `.mem` - losowy mem!
+ * Nowa komenda: `.nosacz` - Janusz!!!
+ * Nowa komenda: `.reverse` - odwróć tekst!
+ * Nowa komenda: `.dog` - losowy piesek!
+ * Przebudowano `.pomoc`
+ * Usprawniono komendy fun
+ * Naprawiono błędy
+ * JDA 4.3.0.310 > 4.3.0.324
+
+# 🌚 Beta 0.1 (20.08)
 🎯 **Krótki opis:**
 Pierwsza wersja bota, wprowadzająca 3 podstawowe komendy
 
