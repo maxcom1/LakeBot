@@ -11,6 +11,12 @@ Kilka komend i poprawa działania bota
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
 
+**⚙️Beta 0.2.2 (10.09):**  
+ * Nowa komenda: `.chmurki` - Chmurki <3
+ * Nowa komenda: `.emoji` - Uczucia z ręki..
+ * Nowa komenda: `.google` - Wyszukaj w google!
+ * Usprawniono komendy z obrazkami
+
 **⚙️Beta 0.2.1 (10.09):**  
 
  * Nowa komenda: `.mem` - losowy mem!
