@@ -11,6 +11,10 @@ Kilka komend i poprawa działania bota
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
 
+**⚙️Beta 0.2.3 (19.09):**  
+ * Zmiana aliasów niektórych komend
+ * Zmiany techniczne
+
 **⚙️Beta 0.2.2 (10.09):**  
  * Nowa komenda: `.chmurki` - Chmurki <3
  * Nowa komenda: `.emoji` - Uczucia z ręki..
