@@ -11,6 +11,9 @@ Kilka komend i poprawa działania bota
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
 
+**⚙️Beta 0.2.5 (19.09):**  
+ * Niektóre operacje są teraz wykonywane asynchronicznie, co wpłynie na zmiejszenie czasu odpowiedzi (rzadki błąd)
+
 **⚙️Beta 0.2.4 (19.09):**  
  * Nowa komenda: `.mnm`
  * Zmiany techniczne
