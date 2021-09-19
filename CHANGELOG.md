@@ -11,6 +11,10 @@ Kilka komend i poprawa działania bota
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
 
+**⚙️Beta 0.2.4 (19.09):**  
+ * Nowa komenda: `.mnm`
+ * Zmiany techniczne
+
 **⚙️Beta 0.2.3 (19.09):**  
  * Zmiana aliasów niektórych komend
  * Zmiany techniczne
