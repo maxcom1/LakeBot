@@ -11,6 +11,15 @@ Kilka komend i poprawa działania bota
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
 
+**⚙️Beta 0.2.6 (27.09):**  
+ * Nowa komenda: `.święta` - Hoł hoł hoł!
+ * Nowa komenda: `.karambit` - Nie da się opisać ;)
+ * Nowa komenda: `.runtime`
+ * Dodano kolejki
+ * Dodano nowe funkcje statusów
+ * Naprawiono błąd z `.mem`
+ * Inne, mniejsze poprawki
+
 **⚙️Beta 0.2.5 (19.09):**  
  * Niektóre operacje są teraz wykonywane asynchronicznie, co wpłynie na zmiejszenie czasu odpowiedzi (rzadki błąd)
 
