@@ -11,6 +11,9 @@ Kilka komend i poprawa działania bota
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
 
+**⚙️Beta 0.2.7 (27.09):**  
+ * Małe poprawki
+
 **⚙️Beta 0.2.6 (27.09):**  
  * Nowa komenda: `.święta` - Hoł hoł hoł!
  * Nowa komenda: `.karambit` - Nie da się opisać ;)
