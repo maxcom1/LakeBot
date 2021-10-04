@@ -1,4 +1,4 @@
-# 🌚 Beta 0.2 (08.09 - 27.09)
+# 🌚 Beta 0.2 (08.09 - 04.10)
 🎯 **Krótki opis:**
 Kilka komend i poprawa działania bota
 
