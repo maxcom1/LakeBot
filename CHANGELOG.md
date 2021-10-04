@@ -11,6 +11,9 @@ Kilka komend i poprawa działania bota
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
 
+**⚙️Beta 0.2.9 (04.10):**  
+ * Małe zmiany w kilku komendach
+
 **⚙️Beta 0.2.8 (28.09):**  
  * Poprawiono działanie `.stonoga`
 
