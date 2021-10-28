@@ -1,4 +1,4 @@
-# 🌚 Beta 0.2 (08.09 - 08.10)
+# 🌚 Beta 0.2 (08.09 - 28.10)
 🎯 **Krótki opis:**
 Kilka komend i poprawa działania bota
 
@@ -10,6 +10,10 @@ Kilka komend i poprawa działania bota
  * Nowa komenda: `.eval`
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
+
+**⚙️Beta 0.2.11 (28.10):**  
+ * Nowa komenda: `.halloween`
+ * Wiele nowych funkcji i zmian, które pojawią się już niedługo :)
 
 **⚙️Beta 0.2.10 (08.10):**  
  * Małe poprawki techniczne
