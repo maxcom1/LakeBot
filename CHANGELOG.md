@@ -11,7 +11,11 @@ Kilka komend i poprawa działania bota
  * Przebudowano `.pomoc`
  * Inne mniejsze zmiany i funkcje  
 
-**⚙️Beta 0.2.12 & 0.2.13 (32.10):**  
+**⚙️Beta 0.2.14 (31.10):**  
+ * Wprowadzenie nowego modułu (dostępność limotowana czasowo)
+ * Więcej szczegółów pod `.pomoc`!
+
+**⚙️Beta 0.2.12 & 0.2.13 (31.10):**  
  * Małe poprawki techniczne
 
 **⚙️Beta 0.2.11 (28.10):**  
