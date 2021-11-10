@@ -1,3 +1,40 @@
+# 🌚 Beta 0.3 (10.11)
+🎯 **Krótki opis:**
+Dodano moduł muzyczny w fazie beta, poprawiono i dodano kilka komend
+
+⛳️ **Nowe komendy, funkcje i zmiany:**
+ * Nowa komenda: `.join` - Przywołuje bota na kanał głosowy
+ * Nowa komenda: `.play [utwór/link]` - Puszcza lub dodaje do kolejki wybrany utwór
+ * Nowa komenda: `.skip` - Pomija aktualnie odtwarzany utwór. Jeśli na kanale głosowym są więcej niż 2 osoby, to 3/4 słuchaczy musi zaakceptować pominięcie
+ * Nowa komenda: `.forceskip` - Wymusza pominięcie utworu
+ * Nowa komenda: `.nowplaying` - Pokazuje co aktualnie gra bot
+ * Nowa komenda: `.leave` - Bot wychodzi z kanału głosowego
+ * Nowa komenda: `.pause` - Zatrzymuje/wznawia utwór
+ * Nowa komenda: `.volume [1-100]` - Zmienia głośność utworu
+ * Nowa komenda: `.kolejka` - Pokazuje aktualną kolejkę utworów
+ * Nowa komenda: `.scroll [0-100]` - Przewija utwór do danego momentu (podawany w procentach, np. *50.5*)
+ * Nowa komenda: `.loop` - Zapętla utwór
+ * Nowa komenda: `.loopqueue` - Zapętla kolejkę
+ * Nowa komenda: `.move [pozycja] <pozycja>` - Przesuwa utwór w kolejce (kolejność odtwarzania)
+ * Nowa komenda: `.player` - Pokazuje szczegóły dotyczące serwerowego odtwarzacza
+ * Nowa komenda: `.playskip [utwór/link]` - Pomija aktualnie grany utwór (jeśli jest) i puszcza wybrany
+ * Nowa komenda: `.playtop [utwór/link]` - Dodaje wybrany utwór na początek kolejki, lub puszcza go jeśli w kolejce nie ma żadnych pozycji
+ * Nowa komenda: `.remove [pozycja w kolejce]` - Usuwa daną pozycję z kolejki
+ * Nowa komenda: `.replay` - Cofa aktualnie grany utwór do początku
+ * Nowa komenda: `.resume` - Wznawia utwór jeśli jest zatrzymany
+ * Nowa komenda: `.shuffle` - Miesza kolejkę
+ * Nowa komenda: `.skipto [pozycja w kolejce]` - Pomija aktualnie odtwarzany utwór i przechodzi do wybranej pozycji z kolejki
+ * Nowa komenda: `.destroy` - Niszczy odtwarzacz serwera. (Jest aktualnie niedostępna publicznie ze względu na niepełne skończenie)
+ * Nowa komenda: `.calc [działanie]` - Oblicza działanie matematyczne
+ * Nowa komenda: `.embed`
+ * Dodano nowe funkcjonalności komendy `.pomoc` i poprawiono kilka błędów
+ * Wiele zmian i poprawek w komendach deweloperskich
+ * Naprawa kilku niedopatrzeń i problemów
+ * Inne mniejsze zmiany i funkcje  
+ **---------------------------**  
+ Aktualnie moduł muzyczny znajduje się w fazie testów beta i może on zawierać różne błędy.
+ Jeśli jednak chcesz odblokować moduł muzyczny na Twoim serwerze, skontaktuj się na discordzie: [maxcom1#0988](https://discord.com/users/440129212414951425)
+
 # 🌚 Beta 0.2 (08.09 - 31.10)
 🎯 **Krótki opis:**
 Kilka komend i poprawa działania bota
