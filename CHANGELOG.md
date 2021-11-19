@@ -1,4 +1,4 @@
-# 🌚 Beta 0.3 (10.11)
+# 🌚 Beta 0.3 (10.11 - 19.11)
 🎯 **Krótki opis:**
 Dodano moduł muzyczny w fazie beta, poprawiono i dodano kilka komend
 
@@ -33,7 +33,21 @@ Dodano moduł muzyczny w fazie beta, poprawiono i dodano kilka komend
  * Inne mniejsze zmiany i funkcje  
  **---------------------------**  
  Aktualnie moduł muzyczny znajduje się w fazie testów beta i może on zawierać różne błędy.
- Jeśli jednak chcesz odblokować moduł muzyczny na Twoim serwerze, skontaktuj się na discordzie: [maxcom1#0988](https://discord.com/users/440129212414951425)
+ Jeśli jednak chcesz odblokować moduł muzyczny na Twoim serwerze, skontaktuj się na discordzie: [maxcom1#0988](https://discord.com/users/440129212414951425)  
+ 
+ **⚙️Beta 0.3.1 (19.11):**  
+ * Dodano komendę `.linkchannel` - pozwala zmienić kanał informacyjny modułu muzycznego
+ * Dodano komendę `.lock` - pozwala zablokować komendy muzyczne dla wszystkich członków bez uprawnienia  
+`Zarządzanie Serwerem`. Może się przydać np. podczas eventów
+ * Dodano komendę `.export` i `.import`
+ * Rozbudowano informacje w komendzie `.player`
+ * Rozbudowano komendę `.kolejka`, teraz będzie ona podzielona na strony (10 pozycji na stronę),  
+`.kolejka <nr. strony/clear> <nr. pozycji>`
+ * Dodano sporo przydatnych aliasów do komend
+ * Poprawki w komendach
+ * Mniejsze poprawki w komendach deweloperskich
+ * Naprawiono mniejsze błędy
+ * JDA 4.3.0_324 => 4.3.0_346
 
 # 🌚 Beta 0.2 (08.09 - 31.10)
 🎯 **Krótki opis:**
