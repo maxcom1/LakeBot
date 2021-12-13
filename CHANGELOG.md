@@ -1,4 +1,4 @@
-# 🌚 Beta 0.3 (10.11 - 19.11)
+# 🌚 Beta 0.3 (10.11 - 13.12)
 🎯 **Krótki opis:**
 Dodano moduł muzyczny w fazie beta, poprawiono i dodano kilka komend
 
@@ -33,7 +33,18 @@ Dodano moduł muzyczny w fazie beta, poprawiono i dodano kilka komend
  * Inne mniejsze zmiany i funkcje  
  **---------------------------**  
  Aktualnie moduł muzyczny znajduje się w fazie testów beta i może on zawierać różne błędy.
- Jeśli jednak chcesz odblokować moduł muzyczny na Twoim serwerze, skontaktuj się na discordzie: [maxcom1#0988](https://discord.com/users/440129212414951425)  
+ Jeśli jednak chcesz odblokować moduł muzyczny na Twoim serwerze, skontaktuj się na discordzie: [maxcom1#0988](https://discord.com/users/440129212414951425) 
+ 
+**⚙️Beta 0.3.3 (13.12):**  
+ * Trochę nastroju zimowego
+ * Kilka bardzo miłych funkcji dla bardzo miłych osób :)
+ * Poprawki błędów
+ 
+**⚙️Beta 0.3.2 (1.12):**  
+ * Poprawki mniejszych błędów
+ * Automatyczne czyszczenie odtwarzacz
+ * Mniejsze zmiany w statusach
+ * JDA 4.3.0_346 => 4.4.0_351
  
  **⚙️Beta 0.3.1 (19.11):**  
  * Dodano komendę `.linkchannel` - pozwala zmienić kanał informacyjny modułu muzycznego
